@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "An elegant, interactive personal expense tracker with dynamic monthly spending reports, custom category breakdowns, and simple local database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
